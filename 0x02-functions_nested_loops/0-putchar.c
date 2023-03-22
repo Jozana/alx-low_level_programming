@@ -3,7 +3,7 @@
  * main - main function
  * _putchar - print the alphabets putchar
  * return: 0 if succesful
- * /
+ */
 
  int main(void)
  {
